@@ -11,17 +11,17 @@
   "dependencies": {
     "colors": "^1.1.2",
     "deep-equal": "^1.0.1",
-    "diff": "^2.1.2",
+    "diff": "^2.2.1",
     "extend": "^3.0.0",
-    "handlebars": "^4.0.1",
+    "handlebars": "^4.0.5",
     "mkdirp": "^0.5.1",
-    "pixelmatch": "^1.1.0",
-    "pngjs": "^0.4.0",
-    "queue-async": "^1.0.7",
-    "st": "^0.5.5"
+    "pixelmatch": "^4.0.1",
+    "pngjs": "^2.2.0",
+    "queue-async": "^1.2.0",
+    "st": "^1.1.0"
   },
   "devDependencies": {
-    "mapbox-gl-style-spec": "^8.2.0",
+    "mapbox-gl-style-spec": "^8.4.0",
     "sponge": "^0.1.0"
   },
   "scripts": {

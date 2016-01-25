@@ -2,7 +2,7 @@
   "version": 8,
   "metadata": {
     "test": {
-        "diff": 0.003,
+        "diff": 0.01,
         "ignored": {
             "native": "https://github.com/mapbox/mapbox-gl-native/issues/250"
         }
